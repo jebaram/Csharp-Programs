@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\ESERCIZI CON SOL\Graph and traversal\block04\Exercise01\bin\Debug\Exercise01.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\ESERCIZI CON SOL\Graph and traversal\block04\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\ESERCIZI CON SOL\Graph and traversal\block04\Exercise01\obj\Debug\Exercise01.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\ESERCIZI CON SOL\Graph and traversal\block04\Exercise01\obj\Debug\Exercise01.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\ESERCIZI CON SOL\Graph and traversal\block04\Exercise01\obj\Debug\Exercise01.pdb
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block04\Exercise01\bin\Debug\Exercise01.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block04\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block04\Exercise01\obj\Debug\Exercise01.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block04\Exercise01\obj\Debug\Exercise01.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block04\Exercise01\obj\Debug\Exercise01.pdb
