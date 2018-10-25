@@ -1,0 +1,110 @@
+C:\Users\User\Desktop\New folder (2)\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.dll
+C:\Users\User\Desktop\New folder (2)\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.pdb
+C:\Users\User\Desktop\New folder (2)\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.dll
+C:\Users\User\Desktop\New folder (2)\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.pdb
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.pdb
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.pdb
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Imaging.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Math.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Video.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Vision.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Imaging.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Math.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Video.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Vision.xml
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.dll
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.pdb
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.dll
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Imaging.dll
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Math.dll
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Video.dll
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Vision.dll
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.xml
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Imaging.xml
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Math.xml
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Video.xml
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Vision.xml
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.csprojResolveAssemblyReference.cache
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.dll
+D:\LIT2017\LIT2017\JebaraBarakat\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.pdb
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.dll.config
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Controls.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.MachineLearning.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.Core.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Statistics.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Controls.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ZedGraph.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Controls.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.MachineLearning.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.Core.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Statistics.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Controls.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ZedGraph.xml
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\de\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\es\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\it\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\Desktop\appunti\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.dll.config
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Vision.pdb
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Controls.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.MachineLearning.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.Core.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Statistics.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Controls.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Imaging.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Math.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Video.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Vision.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ZedGraph.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Controls.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.MachineLearning.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Math.Core.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\Accord.Statistics.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Controls.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Imaging.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Math.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Video.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\AForge.Vision.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ZedGraph.xml
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\de\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\es\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\fr\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\hu\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\it\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ja\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\pt\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\ru\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\sk\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\sv\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\tr\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.csprojResolveAssemblyReference.cache
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.dll
+D:\Appunti\Terzo Anno\laboratorio di inf e telem\A.ESERCIZI PER UNIVERSITA\block06\accord-facedetection-source\Sources\Accord.Vision\obj\x86\Debug\Accord.Vision.pdb
